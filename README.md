@@ -64,7 +64,8 @@ Email the following to `team@cosmiclabs.io`:
 * What you bring technically
 * Soonest available start date
 * Education and years of experience
-* Work eligibility status
+* U.S. work eligibility status
+* Availability (dates and times) for a 15-minute phone call over next seven days
 
 **Attachment:**
 
