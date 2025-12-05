@@ -1,4 +1,4 @@
-# AI/ML Engineer
+# Senior AI/ML Engineer
 
 **Location:** In-person, San Francisco (Relocation Supported)
 **Type:** Full-time | Competitive Pay + Equity
@@ -9,6 +9,7 @@
 ## What You’ll Build
 
 * Design and train compact, high-performance AI models that run in constrained environments—under tight latency, memory, bandwidth, and power ceilings
+* Special focus on complex agentic coordination and memory and context management
 * Fine-tune and optimize models using quantization, distillation, pruning, and structured sparsity techniques
 * Convert and deploy models across a range of real-world hardware targets: embedded ARM, edge GPUs, edge CPUs, radios, mobile-class silicon
 * Own the end-to-end ML lifecycle: from architectural design and training to evaluation, system integration, and post-deployment debugging
