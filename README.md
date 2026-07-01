@@ -6,12 +6,12 @@
 
 ---
 
-## What You’ll Build
+## What You’ll Do
 
 * Design and train compact, high-performance AI models that run in constrained environments—under tight latency, memory, bandwidth, and power ceilings
 * Special focus on complex agentic coordination and memory and context management
 * Fine-tune and optimize models using quantization, distillation, pruning, and structured sparsity techniques
-* Convert and deploy models across a range of real-world hardware targets: embedded ARM, edge GPUs, edge CPUs, radios, mobile-class silicon
+* Convert and deploy models across a range of real-world hardware targets
 * Own the end-to-end ML lifecycle: from architectural design and training to evaluation, system integration, and post-deployment debugging
 * Build tooling and automation to monitor model performance across volatile, distributed systems
 * Collaborate with embedded and infra engineers to ensure tight coordination between model behavior and system-level constraints
@@ -40,14 +40,6 @@
 * Familiarity with TinyML, quantized runtime stacks, or inference under low-power conditions
 * Experience with real-time agents or adaptive inference systems
 * Background in autonomy, robotics, networking, or embedded AI
-
----
-
-## Why Cosmic Labs
-
-We're building AI infrastructure where resilience matters more than size, and speed matters more than scale. Our systems operate in environments where power is limited, compute is volatile, and downtime breaks mission-critical decisions.
-
-We're not optimizing cloud inference—we're designing **self-reliant AI systems** that adapt, recover, and operate under pressure. If you're obsessed with **how to make models smaller, faster, smarter**, and care about making AI work beyond the lab—we want to talk.
 
 ---
 
