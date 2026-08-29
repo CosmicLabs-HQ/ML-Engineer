@@ -1,4 +1,4 @@
-# Senior AI/ML Engineer
+# Member of Technical Staff, ML Engineer
 
 **Location:** In-person, San Francisco (Relocation Supported)
 **Type:** Full-time | Competitive Pay + Equity
